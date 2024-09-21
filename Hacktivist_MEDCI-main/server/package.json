@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Healthcare system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kunal0612/Hacktivist_MEDCI.git"
+  },
+  "author": "Hacktivist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kunal0612/Hacktivist_MEDCI/issues"
+  },
+  "homepage": "https://github.com/Kunal0612/Hacktivist_MEDCI#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.30.1",
+    "mongoose": "^8.1.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.3"
+  }
+}
